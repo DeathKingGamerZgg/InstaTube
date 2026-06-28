@@ -1,0 +1,6 @@
+{
+  "name": "InstaTube Downloader",
+  "description": "A high-performance media downloader designed to easily save YouTube videos and Instagram video/image posts, with support for Android PWA installation and native system sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
